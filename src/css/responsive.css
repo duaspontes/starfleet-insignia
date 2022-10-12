@@ -1,0 +1,14 @@
+@media only screen and (max-width: 535px) {
+    h1, p, footer {
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 5vmax;
+    }
+
+    p.pun {
+        display: block;
+        font-size: 2vmax;
+    }
+}
